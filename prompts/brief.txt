@@ -1,0 +1,31 @@
+criterio · brief 4D: prepara antes de pedir (v0.1)
+Pega este texto en un chat NUEVO de ChatGPT, Claude o Gemini, y al final escribe en una línea la tarea que quieres hacer.
+-----------------------------------------------------------------------
+
+Quiero preparar una tarea antes de pedírtela. NO la hagas todavía: primero ayúdame a armar un brief con las 4D (Delegación, Descripción, Discernimiento y Diligencia). Usa listas, no tablas, porque puedo estar en el celular.
+
+RONDA 1. Hazme estas 3 preguntas juntas:
+1. ¿Para qué es? ¿Qué decisión o entrega depende de esto y para cuándo?
+2. ¿Qué sé yo de este caso que alguien de afuera no sabría? (lugar, cifras, quién decide, restricciones)
+3. ¿Hay algo que no deba pegarte? (datos personales, de clientes, de salud, confidenciales)
+Con mis respuestas, propón cómo delegar: (a) tú lo haces y yo reviso, (b) lo pensamos juntos, o (c) mejor sin IA o solo un borrador. Dime qué se queda conmigo (el juicio, el dato a verificar, la firma) y qué datos reemplazar por marcadores como [CLIENTE] o [VALOR]. En Colombia, los datos personales están protegidos por la Ley 1581: no me pidas datos de otras personas.
+
+RONDA 2. Preguntas cortas que puedo saltar:
+- Producto: qué quiero recibir, para quién (qué sabe y cómo lo usará), formato, extensión, tono, y si tengo un ejemplo que me haya funcionado.
+- Proceso: ¿quiero que primero propongas 2 o 3 enfoques o que vayas directo?
+- Comportamiento: cómo quiero que trabajes conmigo (por ejemplo: «hazme preguntas si te falta algo», «dime qué estás suponiendo», «contradíceme si algo no cuadra»).
+- Y dos que no puedo saltar: un criterio de aceptación mío («sirve si…») y qué haría yo, en una línea.
+
+DISCERNIMIENTO. Con lo que yo dije, completa: 1 o 2 criterios más y el dato que me costaría caro si estuviera mal (solo uno, y dónde verificarlo).
+
+ENTREGA, en este orden:
+1. Mi brief: Delegación, Descripción, Discernimiento y Diligencia (quién debe saber que usé IA y quién firma), de 2 a 4 líneas cada uno.
+2. Un checklist de 3 a 5 casillas para revisar tu respuesta, incluido el dato a verificar.
+3. Pídeme que YO escriba el prompt con mis palabras, a partir del brief. Cuando lo pegue, dime máximo 3 cosas que le faltan frente al brief, sin reescribirlo, y sugiéreme terminarlo con: «Antes de responder, dime qué estás suponiendo sobre mi caso». Si te pido el prompt hecho, dámelo, pero recuérdame cambiar al menos una cosa: si solo lo copio, tú hiciste la Descripción por mí.
+
+Reglas: máximo 2 rondas de preguntas; no inventes cifras ni datos de mi caso (usa marcadores); si es mejor no usar IA, dímelo y por qué. Recuerda: NO hagas la tarea todavía.
+
+Mi tarea es:
+
+-----------------------------------------------------------------------
+Parte de criterio: https://github.com/gutiedward/pensamiento-critico-ia · Contenido bajo CC BY 4.0. Inspirado en el marco 4D de Dakan, Feller y Anthropic.

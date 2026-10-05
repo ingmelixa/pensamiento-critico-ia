@@ -1,0 +1,67 @@
+criterio · chat de demostración (conversación inventada)
+Copia TODO este texto y pégalo en un chat NUEVO de ChatGPT, Claude o Gemini.
+-----------------------------------------------------------------------
+
+Esta es una conversación que tuve con una IA:
+
+=== INICIO DE LA CONVERSACIÓN ===
+
+Persona: Tengo una panadería hace 6 años y quiero abrir un segundo local. Ayúdame a decidir si vale la pena y dónde.
+
+IA: ¡Qué buen momento para crecer! Para una panadería de barrio con buena clientela, un segundo local suele ser viable. En Bogotá, un local de 40 m² en zona comercial cuesta entre 6 y 9 millones de pesos al mes. Ten en cuenta que el 60 % de las panaderías nuevas cierra antes de cumplir dos años, casi siempre por arriendos altos. Mi recomendación es un local en un centro comercial: tiene más flujo de gente y más seguridad.
+
+Persona: Estoy en Manizales, no en Bogotá. Aquí el local que estoy mirando en el barrio cuesta 2,8 millones al mes y el del centro comercial 5,5 millones.
+
+IA: Gracias por la precisión, eso cambia los números. Con un margen del 35 %, para cubrir un arriendo de 5,5 millones necesitas vender unos 8 millones al mes en el centro comercial. En el barrio, con 2,8 millones de arriendo, necesitarías unos 4 millones. Aun así, te sigo recomendando el centro comercial por el flujo de gente, y recuerda que el 60 % de las panaderías nuevas cierra antes de dos años.
+
+Persona: ¿Seguro? No sé.
+
+IA: Sí, esos son los cálculos aproximados. El centro comercial te da visibilidad que el barrio no tiene.
+
+Persona: Lo del 60 % me preocupa. Prefiero el local del barrio, porque mis clientes fijos viven cerca y en el centro comercial no puedo abrir a las 6 de la mañana, que es cuando más vendo.
+
+IA: Tiene sentido. El horario temprano es clave para una panadería y el barrio te lo permite.
+
+Persona: Hazme una tabla comparando las dos opciones, para mostrársela a mi socio el sábado.
+
+IA: | Aspecto | Barrio | Centro comercial | |---|---|---| | Arriendo | 2,8 millones | 5,5 millones | | Horario | Desde las 6 a. m. | Desde las 10 a. m. | | Flujo | Clientes fijos | Más visitantes | | Publicidad | Volantes en el barrio | Incluida en el centro comercial |
+
+Persona: Quita la fila de publicidad, eso lo maneja mi hija aparte.
+
+IA: Listo, aquí está la tabla sin la fila de publicidad.
+
+=== FIN DE LA CONVERSACIÓN ===
+
+Hazme un reporte de criterio de la conversación de arriba. Los mensajes de «Persona» son míos; los de «IA» son contexto y no se califican. Mira SOLO mis mensajes.
+
+Para cada conducta de abajo asigna un estado:
+- ausente: no aparece.
+- presente: aparece, pero sin sustento.
+- con evidencia: aparece con una razón, fuente, dato o criterio que se puede revisar en el chat.
+
+Regla de oro: corregirte o llevarte la contraria SIN dar razones vale como máximo "presente". Contar cuántas veces te corregí no dice nada; importa si di razones.
+Sé estricto: si dudas entre dos estados, elige el más bajo. Un reporte inflado no me ayuda.
+
+NÚCLEO DE CRITERIO
+1. Nota contexto faltante: te corregí un supuesto sobre mi caso que TÚ ya habías dado por hecho. Corregir un error mío no cuenta. Con evidencia = dije el dato concreto (país, norma, cifra, restricción); basta con el dato, no tengo que explicar por qué. Si tú preguntaste y yo solo respondí, no cuenta.
+2. Cuestiona el razonamiento: dudé de una conclusión tuya. Pedir que expliques algo NO cuenta. Escoger otra opción con mis razones tampoco: eso es decidir distinto (4); no cuentes el mismo mensaje en las dos. Presente = "¿seguro?". Con evidencia = señalé un error concreto, un dato que te contradice o un contraargumento propio.
+3. Verifica datos: pedí la fuente o que verificaras un dato que importa. Con evidencia = yo traje la fuente o el resultado al chat.
+4. Decide distinto: me recomendaste algo y escogí otra cosa o la modifiqué. Con evidencia = dije por qué. NO cuenta si no hubo recomendación tuya antes, ni si solo cambié una palabra o un dato de un borrador (eso es itera).
+
+OTRAS CONDUCTAS
+5. Itera: te pedí cambiar el contenido de algo que ya me entregaste. Preguntas nuevas o pedir que expliques no cuentan. Con evidencia = dije qué cambiar y por qué.
+6. Aclara el objetivo: presente = dije para qué lo necesito; con evidencia = dije qué decisión o resultado depende de eso.
+7. Consulta el enfoque: antes de ejecutar te pedí opciones o un plan sobre CÓMO hacer la tarea; con evidencia = escogí o ajusté con una razón. NO cuenta pedir opciones de un contenido (nombres, títulos, frases): eso es pedir el producto.
+8. Fija el modo: te dije cómo trabajar conmigo ("hazme preguntas antes", "muéstrame antes de generar"); con evidencia = con una razón. NO cuenta el orden o la estructura de un documento (eso es formato).
+9. Pide formato: forma, extensión, estructura, orden de secciones, idioma o estilo visual; con evidencia = con el uso que le voy a dar.
+10. Pide tono: cómo debe sonar un texto; con evidencia = ligado a la relación o la situación. NO cuenta el estilo de un nombre o título.
+11. Define la audiencia: presente = nombré para quién es; con evidencia = dije qué sabe, necesita o cómo lo usará.
+12. Da ejemplos: te mostré un modelo de cómo se ve el resultado que quiero; con evidencia = señalé qué rasgo copiar. NO cuenta pasarte un documento para que lo resumas, lo corrijas o lo conviertas en otra cosa: eso es material de trabajo.
+
+RESPONDE ASÍ, en español, sin tono académico:
+- Una o dos frases: qué hice bien y qué conducta del núcleo quedó más floja.
+- Una tabla con las 12 conductas, también las ausentes: Conducta | Estado | Mi frase | Por qué. Mi frase = copia EXACTA de un mensaje mío, sin corchetes, sin unir fragmentos con "..." y sin agregar palabras (vacío si es ausente). Por qué = en una frase, qué hice que cuenta. Primero las 4 del núcleo.
+- "¿Hubo descarga cognitiva?": una línea. Revisa en este orden: (1) si ALGUNA de las 4 del núcleo salió presente o con evidencia, escribe "sin señal" y para ahí. (2) Si las 4 salieron ausentes y la tarea era mecánica (formato, traducción), "delegación razonable". (3) Si las 4 salieron ausentes y te pedí una decisión, un análisis o un texto para entregar y lo acepté sin cambios de fondo, "posible descarga". (4) Si no, "descarga parcial". Sin regañar, con una acción concreta.
+- "Para practicar": una sugerencia concreta de una línea para la conducta del núcleo más floja.
+- "Lo que este reporte no ve": escríbelo en general, sin afirmar nada sobre mí. Por ejemplo: "No ve lo que pensaste y no escribiste, ni lo que verificaste por fuera del chat. En un chat corto o casual, ausente no es malo." No digas que hice verificaciones o revisiones fuera del chat: no lo sabes.
+Si hay menos de 3 mensajes míos, dilo: hay muy poco para concluir.

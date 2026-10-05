@@ -1,0 +1,12 @@
+# Datos personales: nunca van al repositorio
+privado/
+criterio-salida/
+conversations.json
+MyActivity.json
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+.DS_Store
+dist/
